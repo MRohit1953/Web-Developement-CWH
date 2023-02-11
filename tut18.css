@@ -1,0 +1,11 @@
+#firstPara{
+    color: green; /* Color by name */
+}
+
+#secondPara{
+    color: rgb(226, 143, 34); /* Color by RGB value */
+}
+
+#thirdPara{
+    color: #ab1be4; /* Color using hex value */
+}

@@ -1,0 +1,21 @@
+.container{
+    background-color: #cc9bd8 ;
+    border:3px solid rgb(196, 65, 236);
+    padding: 3%;
+    
+    border-radius: 23px;
+    width: 700px;
+    margin: 4% auto;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b23;
+}
+h3{
+    background-color: #cc9bd8 ;
+}
+p{
+    background-color: #cc9bd8 ;
+}
